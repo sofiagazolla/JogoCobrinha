@@ -2,6 +2,9 @@
 
 <img width="454" height="350" alt="Captura de tela de 2025-08-20 19-27-19" src="https://github.com/user-attachments/assets/1e55c45e-2400-49b7-b606-bbeebb76b32f" />
 
+![gifjogocobrinha](https://github.com/user-attachments/assets/27f39673-72ab-42da-a114-0224122d17d2)
+
+
 ---
 
 Esse jogo foi desenvolvido utilizando a **biblioteca Java Swing** para a interface gráfica.
