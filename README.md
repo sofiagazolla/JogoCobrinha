@@ -1,6 +1,8 @@
-O tradicional jogo da cobrinha desenvolvido em Java. 
+***O tradicional jogo da cobrinha desenvolvido em Java.***
+
 
 <img width="454" height="350" alt="Captura de tela de 2025-08-20 19-27-19" src="https://github.com/user-attachments/assets/1e55c45e-2400-49b7-b606-bbeebb76b32f" />
+
 
 Esse jogo foi desenvolvido utilizando a biblioteca Java Swing para a interface gráfica.
 A cobrinha é representada por dois arrays, um que guarda as posições X e o outro que guarda as posições Y da cobra. 
