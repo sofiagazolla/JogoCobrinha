@@ -1,8 +1,5 @@
 # 🐍 O Tradicional Jogo da Cobrinha em Java
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=java\&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-6DB33F?style=flat-square\&logoColor=white)
-
 <img width="454" height="350" alt="Captura de tela de 2025-08-20 19-27-19" src="https://github.com/user-attachments/assets/1e55c45e-2400-49b7-b606-bbeebb76b32f" />
 
 ---
