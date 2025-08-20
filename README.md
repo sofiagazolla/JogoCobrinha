@@ -1,9 +1,6 @@
 # 🐍 O Tradicional Jogo da Cobrinha em Java
 
-![gifjogocobrinha](https://github.com/user-attachments/assets/27f39673-72ab-42da-a114-0224122d17d2)
-
-<img src="https://github.com/user-attachments/assets/27f39673-72ab-42da-a114-0224122d17d2" alt="gifjogocobrinha" width="400">
-
+<img src="https://github.com/user-attachments/assets/27f39673-72ab-42da-a114-0224122d17d2" alt="gifjogocobrinha" width="600">
 
 ---
 
