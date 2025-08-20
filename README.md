@@ -1,36 +1,48 @@
-***O tradicional jogo da cobrinha desenvolvido em Java.***
+# 🐍 O Tradicional Jogo da Cobrinha em Java
 
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=java\&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-6DB33F?style=flat-square\&logoColor=white)
 
 <img width="454" height="350" alt="Captura de tela de 2025-08-20 19-27-19" src="https://github.com/user-attachments/assets/1e55c45e-2400-49b7-b606-bbeebb76b32f" />
 
+---
 
+Esse jogo foi desenvolvido utilizando a **biblioteca Java Swing** para a interface gráfica.
+A cobrinha é representada por **dois arrays**, um que guarda as posições X e o outro que guarda as posições Y da cobra.
+A **cabeça é sempre o índice 0** e as suas diferentes direções são representadas por diferentes imagens. Cada segmento do corpo segue a posição do segmento anterior.
+O movimento é sempre contínuo graças ao uso do **Timer**, que é atualizado seguindo a variável `delay`.
 
-Esse jogo foi desenvolvido utilizando a biblioteca Java Swing para a interface gráfica.
-A cobrinha é representada por dois arrays, um que guarda as posições X e o outro que guarda as posições Y da cobra. 
-A cabeça é sempre o índice 0 e as suas diferentes direções são representadas por diferentes imagens. Cada segmento do corpo segue a posição do segmento anterior. 
-O movimento é sempre contínuo graças ao uso do Timer que é atualizado seguindo a variável delay.
+Há uma lógica garantindo que a cobra **não possa simplesmente inverter a posição**, como isso faria com que ela colidisse consigo mesma.
+Também é verificado se ela colidiu com alguma parte do seu corpo ou com as paredes, pois caso isso ocorra, o método `gameOver` é chamado e o jogo acaba.
 
-Há uma lógica garantindo que a cobra não possa simplesmente inverter a posição, como isso faria com que ela colidisse consigo mesma. 
-Também é verificado se ela colidiu com alguma parte do seu corpo ou com as paredes, pois caso isso ocorra, o método gameover é chamado e o jogo acaba. 
+---
 
-Para jogar, basta:
+## 🎮 Como jogar
 
-1. Clonar o repositório
-   ```bash
-   git clone https://github.com/seu-usuario/jogo-cobrinha-java.git
-   ```
-2. Compilar o projeto
-   ```bash
-   javac joguinho/*.java
-   ```
-3. Executar o jogo
-   Execute o jogo:
-   ```bash
-   java joguinho.Main
-   ```
+1. **Clonar o repositório**
+
+```bash
+git clone https://github.com/seu-usuario/jogo-cobrinha-java.git
+```
+
+2. **Compilar o projeto**
+
+```bash
+javac joguinho/*.java
+```
+
+3. **Executar o jogo**
+
+```bash
+java joguinho.Main
+```
+
+---
+
+## 📁 Arquivos do jogo
 
 Os arquivos necessários para o jogo são os seguintes, seguindo essa estrutura e tendo essas funções:
+
 ```
 📁 joguinho
  ├── Jogar.java        # Lógica e renderização do jogo
