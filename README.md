@@ -2,6 +2,9 @@
 
 ![gifjogocobrinha](https://github.com/user-attachments/assets/27f39673-72ab-42da-a114-0224122d17d2)
 
+<img src="https://github.com/user-attachments/assets/27f39673-72ab-42da-a114-0224122d17d2" alt="gifjogocobrinha" width="400">
+
+
 ---
 
 Esse jogo foi desenvolvido utilizando a **biblioteca Java Swing** para a interface gráfica.
