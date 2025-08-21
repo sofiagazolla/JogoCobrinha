@@ -1,4 +1,4 @@
-# 🐍 O Tradicional Jogo da Cobrinha em Java
+# O Tradicional Jogo da Cobrinha em Java
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/27f39673-72ab-42da-a114-0224122d17d2" alt="gifjogocobrinha" width="600">
@@ -17,7 +17,7 @@ Também é verificado se ela colidiu com alguma parte do seu corpo ou com as par
 
 ---
 
-## 🎮 Como jogar
+## Como jogar
 
 1. **Clonar o repositório**
 
@@ -39,7 +39,7 @@ java joguinho.Main
 
 ---
 
-## 📁 Arquivos do jogo
+## Arquivos do jogo
 
 Os arquivos necessários para o jogo são os seguintes, seguindo essa estrutura e tendo essas funções:
 
